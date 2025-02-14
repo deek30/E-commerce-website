@@ -11,8 +11,11 @@ Fully Functional Navbar – Includes dropdowns and search bar
 
 🛠️ Tech Stack
 HTML5 – Structure of the website
+
 CSS3 – Styling and animations
+
 JavaScript (ES6) – Dynamic interactions
+
 Font Awesome – Icons for buttons & navigation
 
 Deployed link : 
